@@ -1,0 +1,44 @@
+
+html {
+    font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: 'Raleway', sans-serif; /* este é o nome da fonte escolhida e baixada do Google Fonts*/
+    background-color: rgb(255, 255, 255); /*rgb(212, 243, 255)*/
+}
+
+body {
+    width: 800px;
+    margin: 30 auto;
+    background-color: rgb(212, 243, 255); /*rgb(212, 243, 255) ou (153, 145, 134) */
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(145, 134, 112);
+    border: 5px solid black;
+
+}
+h1 {
+    margin-top: 0px;
+    font-size: 60px;
+    padding: 20px 0;
+    text-align: center;
+    border-style: double;
+    text-shadow: 3px 3px 1px rgb(145, 134, 112);
+    background-color:black;
+    Color: rgb(212, 243, 255) ;
+    }
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    widows: 300px;
+}
+
+a:hover {
+    font-style: italic;
+    }
+
+
